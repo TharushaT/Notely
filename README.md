@@ -1,4 +1,4 @@
-# 🔥Notely - A Note App
+# 🔥Notely - A Flutter Note App with firebase backend.
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -7,9 +7,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
 
-
-
-A Flutter Note App with firebase backend.
 
 Star⭐ the repo if you like what you see😉.
 
