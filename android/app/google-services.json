@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744986299108",
+    "project_id": "todox-f8536",
+    "storage_bucket": "todox-f8536.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744986299108:android:a25607d0773e40afcf7af1",
+        "android_client_info": {
+          "package_name": "com.example.todox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744986299108-mqebc36o2motf5riblrvia3mlirc3cuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06s5lYBW2sawCxyhSjeKYfpo8O0cBPMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744986299108-mqebc36o2motf5riblrvia3mlirc3cuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
