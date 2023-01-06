@@ -38,4 +38,4 @@ Star⭐ the repo if you like what you see😉.
 
 
 
-## If you want to use this project add your firebase's account's data by creaing firebase_options.dart file.
+## If you want to use this project add your firebase's account's data by creating firebase_options.dart file.
